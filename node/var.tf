@@ -1,0 +1,4 @@
+variable "cluster" {
+}
+variable "subnets" {
+}
